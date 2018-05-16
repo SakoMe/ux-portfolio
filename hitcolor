@@ -1,0 +1,106 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html class="no-js">
+<!--<![endif]-->
+<html>
+
+<head>
+	<title>Sarkis Melkonyan Full Stack Developer / Design Geek</title>
+
+	<!-- META DATA -->
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="description" content="" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0" />
+
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+</head>
+
+<body class="loading">
+	<div class="project">
+		<div class="project__content">
+
+			<div class="row">
+				<div class="column--s-12 column--xl-8 column-offset--xl-2 padding--s-3 padding--m-6">
+					<div class="text-align--s-left">
+						<h5>Full Corporate Identity + Mobile App Design.</h5>
+						<p>
+							The Hit-Color App is an easy-to-use e-commerce app that enables people to shop for clothes by swiping right to keep and left to discard. Over 500 unique UI elements and 90+ screens were part of the design process!
+						</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="row background-color--light-grey">
+				<div class="column--s-12">
+					<img src="assets/img/content/hitcolor/hit-color-1.jpg" class="responsive" alt="">
+				</div>
+
+				<div class="column--s-12">
+					<div class="padding--vertical--s-1 padding--vertical--m-3 text-align--s-center"></div>
+				</div>
+
+				<div class="column--s-12">
+					<img src="assets/img/content/hitcolor/hit-color-2.jpg" class="responsive" alt="">
+				</div>
+
+				<div class="column--s-12">
+					<div class="padding--vertical--s-1 padding--vertical--m-3 text-align--s-center"></div>
+				</div>
+
+				<div class="column--s-12">
+					<img src="assets/img/content/hitcolor/hit-color-3.jpg" class="responsive" alt="">
+				</div>
+
+				<div class="column--s-12">
+					<div class="padding--vertical--s-1 padding--vertical--m-3 text-align--s-center"></div>
+				</div>
+
+				<div class="column--s-12">
+					<img src="assets/img/content/hitcolor/hit-color-4.jpg" class="responsive" alt="">
+				</div>
+
+				<div class="column--s-12">
+					<div class="padding--vertical--s-1 padding--vertical--m-3 text-align--s-center"></div>
+				</div>
+
+				<div class="column--s-12">
+					<img src="assets/img/content/hitcolor/hit-color-5.jpg" class="responsive" alt="">
+				</div>
+
+				<div class="column--s-12">
+					<div class="padding--vertical--s-1 padding--vertical--m-3 text-align--s-center"></div>
+				</div>
+
+				<div class="column--s-12">
+					<img src="assets/img/content/hitcolor/hit-color-6.jpg" class="responsive" alt="">
+				</div>
+
+			</div>
+
+
+			<div class="row background-color--white text-align--s-center">
+				<div class="column--s-12 column--m-8 column-offset--m-2 padding--s-3 padding--m-6">
+					<a data-next-project href="#" class="button--hexagon">
+						<span class="slice"></span>
+						<span class="slice"></span>
+						<span class="slice"></span>
+						<span class="slice"></span>
+						<span class="slice"></span>
+						<span class="slice"></span>
+						<span class="button__label text-color--white">Next</span>
+					</a>
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+</body>
+
+</html>
